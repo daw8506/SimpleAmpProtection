@@ -1,0 +1,15 @@
+<!DOCTYPE piklab>
+<piklab>
+  <general>
+    <device>16F628A</device>
+    <tool>gputils</tool>
+    <programmer>custom</programmer>
+    <files>
+      <item>simpleampprotection.asm</item>
+    </files>
+    <opened_files>
+      <item>simpleampprotection.asm</item>
+    </opened_files>
+  </general>
+  <editors/>
+</piklab>
